@@ -12,8 +12,8 @@ This repository contains jupyter notebooks to be used as suplementary material f
 [http://dx.doi.org/10.1088/0031-8949/88/03/035401](http://iopscience.iop.org/article/10.1088/0031-8949/88/03/035401/meta) 
 
 
-## Code Execution:  [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/davofis/computational_seismology)
-The code of this repository can immediately be executed by anyone. Please hit the badge [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/davofis/computational_seismology). This opens all notebooks in an executable environment using the [Binder](http://mybinder.org/) project.
+## Code Execution:  [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/davofis/optical_coherence_wavelets)
+The code of this repository can immediately be executed by anyone. Please hit the badge [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/davofis/optical_coherence_wavelets). This opens all notebooks in an executable environment using the [Binder](http://mybinder.org/) project.
 
 
 ##Tasks for jupyter notebooks:
