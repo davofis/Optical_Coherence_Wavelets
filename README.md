@@ -22,11 +22,17 @@ The code of this repository can immediately be executed by anyone. Please hit th
 |---------|-----------------------------------|--------------------------------------------------------|:-----------:|
 |    1    | Simple intensity distributions    | Improve the existing python code add markdown comments |     DONE    |
 |    2    | Degree coherence distibutions     | Improve the existing python code add markdown comments |     DONE    |
-|    3    | Paraxial case	              | Improve the existing python code add markdown comments |     DONE    |
+|    3    | Paraxial case	                    | Improve the existing python code add markdown comments |     DONE    |
 |    4    | Non-paraxial case                 | Write a notebook implementing the existing MatLab code |     DONE    |
 |    5    | Imaging - Transfer of constrast   | Write a notebook implementing the existing MatLab code |             |
 |    6    | Imaging - Resolution              | Write a notebook implementing the existing MatLab code |             |
 |    7    | 2D case                           | Write a notebook from scratch                          |             |
+
+
+
+|           | Exercise (Github) | Exercise (Colab) |
+|-----------|------------------|------------------|
+| 1: Wavelets | [Link](Wavelets.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davofis/Optical_Coherence_Wavelets/blob/master/Wavelets.ipynb)  |
 
 
 
